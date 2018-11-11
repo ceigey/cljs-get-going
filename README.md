@@ -26,7 +26,7 @@
 * ??? https://clojure.org/guides/deps_and_cli
 
 ## Development cycle
-* Figwheel
+* Figwheel: https://figwheel.org
 * ...?
 
 ## Integrating with JS
