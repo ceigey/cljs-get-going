@@ -1,4 +1,4 @@
-# Gettin' Goin' in Clojurescrip'
+# Gettin' Goin' in Clojurescript
 
 ## Hands on introduction
 * Koans (clj): http://clojurekoans.com
